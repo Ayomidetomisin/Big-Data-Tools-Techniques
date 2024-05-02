@@ -1,4 +1,4 @@
-This assessment is centred around using, Spark SQL once and twice using PySpark for RDD and
+This task is centred around using, Spark SQL once and twice using PySpark for RDD and
 DataFrame operations to analyze 2023 clinical trial data (Clinicaltrial_2023.csv) alongside
 pharmaceutical company information (pharma.csv) to make confirmation to the questions at hand.
 Exploration and preparation will be used to understand and prepare the data, to effectively
